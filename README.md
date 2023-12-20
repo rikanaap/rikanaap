@@ -4,6 +4,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rikanaap&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikanaap&layout=compact&theme=omni)](https://github.com/rikanaap)
 
 ---
 <p align="left">
