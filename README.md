@@ -6,5 +6,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rikanaap&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ---
-<p align="center"> [![](https://visitcount.itsvg.in/api?id=rikanaap&icon=0&color=0)](https://visitcount.itsvg.in)</p>
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=rikanaap&label=Profile%20Views&color=12&icon=7&pretty=false" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
